@@ -1,0 +1,22 @@
+{
+  "name": "create-nexteditorfiles",
+  "version": "1.0.0",
+  "description": "A generator for common editor files for NextJS project.",
+  "bin": "src/index.js",
+  "keywords": [
+    "nextjs",
+    "editorconfig",
+    "eslint",
+    "prettier",
+    "vscode"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Praveen Sewak <praveensewak@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveensewak/create-nexteditorfiles.git"
+  },
+  "license": "MIT"
+}
